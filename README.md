@@ -1,2 +1,2 @@
-# Suzuki-showroom-
-Create a Suzuki showroom webpage 
+# Suzuki-showroom
+
